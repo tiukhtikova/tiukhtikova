@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiukhtikova&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 <br/>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiukhtikova)<br/>
+<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiukhtikova)<br/> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=tiukhtikova&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br/> -->
