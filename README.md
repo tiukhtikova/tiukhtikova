@@ -1,7 +1,7 @@
 ## Hi there, I am Katya ✨​
 
  🌌​ I study Computer Science and Engineering at Massachusetts Institute of Technology<br/>
- 🌱 My personal [website](https://www.tiukhtikova.space<br/>
+ 🌱 My personal [website](https://www.tiukhtikova.space)<br/>
  🔭 Reach out to me [here](https://www.linkedin.com/in/ekaterina-tiukhtikova/))<br/>
 
 ## Skills 👩‍💻
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiukhtikova&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <br/>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=tiukhtikova&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br/> ->
+<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=tiukhtikova&theme=transparent&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
