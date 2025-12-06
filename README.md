@@ -1,6 +1,6 @@
 ## Hi there, I am Katya ✨​
 
- 🌌​ I am studying computer science at Massachusetts Institute of Technology<br/>
+ 🌌​ I am studying Aerospace Engineering and CS at Massachusetts Institute of Technology<br/>
  🌱 My personal [website](https://www.tiukhtikova.space)<br/>
  🔭 Reach out to me [here](https://www.linkedin.com/in/ekaterina-tiukhtikova/)<br/>
 
